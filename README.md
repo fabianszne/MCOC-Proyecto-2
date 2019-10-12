@@ -2,8 +2,11 @@ MCOC-Proyecto-2
 Integrantes:
 
 Fernanda Arcos Hernández
+
 Fabian Cortes Figueroa (https://github.com/fabianszne)
+
 Roberto Cruz Fernández (https://github.com/RobertoCruzF)
+
 Anibal Tapia Triviño (https://github.com/tapiolaa
 
 Introducción
