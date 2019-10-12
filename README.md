@@ -1,4 +1,4 @@
-+MCOC-Proyecto-2
+MCOC-Proyecto-2
 Integrantes:
 
 Fernanda Arcos Hernández
